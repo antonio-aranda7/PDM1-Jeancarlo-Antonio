@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CURP-Jeancarlo-Antonio</string>
+    <string name="name">Primer Nombre</string>
+    <!--<string name="primer_nombre">Primer Nombre</string>-->
+    <string name="apellido_paterno">Apellido Paterno</string>
+    <string name="apellido_materno">Apellido Materno</string>
+    <!--<string name="primer_nombr">primer_nombre</string>-->
+    <string name="seleccionar_fecha">Seleccionar Fecha</string>
+    <string name="fecha">Fecha</string>
+    <!--<string name="crea">crear</string>-->
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <!--<string name="button">Button</string>-->
+    <string name="estado">Estado</string>
+    <string name="curp">CURP</string>
+    <string name="generar">Generar</string>
+    <string name="borrar">Borrar</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RFC-Jeancarlo-Antonio</string>
+    <string name="name">Primer Nombre</string>
+    <string name="apellido_paterno">Apellido Paterno</string>
+    <string name="apellido_materno">Apellido Materno</string>
+    <string name="seleccionar_fecha">Seleccionar Fecha</string>
+    <string name="fecha">Fecha</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="estado">Estado</string>
+    <string name="rfc">RFC</string>
+    <string name="generar">Generar</string>
+    <string name="borrar">Borrar</string>
+</resources>
